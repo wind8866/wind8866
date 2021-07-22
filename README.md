@@ -1,6 +1,10 @@
-### Hi there, I'm [Liuzhen](https://wind8866.github.io/blog/aboutme.html)! 👋
-My blog site is at [wind8866.io](https://wind8866.github.io/)
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=wind8866&count_private=true&hide_title=true&show_icons=true&hide=stars,prs,contribs' width='500' /> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wind8866&count_private=true&hide_title=true&show_icons=true&hide=stars,prs,contribs)
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wind8866&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+#### [Blog](https://wind8866.github.io/)
+[![Last update](https://img.shields.io/github/last-commit/wind8866/wind8866.io)](https://github.com/wind8866/wind8866.io)
+#### Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
