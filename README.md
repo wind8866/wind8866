@@ -1,6 +1,6 @@
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=wind8866&count_private=true&hide_title=true&show_icons=true&hide=stars,prs,contribs' width='500' /> 
 
-#### [Blog](https://wind8866.github.io/)
+#### [Blog](https://wind8866.top/)
 [![Last update](https://img.shields.io/github/last-commit/wind8866/wind8866.io)](https://github.com/wind8866/wind8866.io)
 #### Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
